@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RangoWeb.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edeb75a0738408d21305186139d572a7cdf19a4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce0dfcd141c7ef4efb9142c1c53d3cfde06e1ab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RangoWeb.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RangoWeb.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

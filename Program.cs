@@ -11,9 +11,9 @@ var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
 
-app.MapGet("/rangos/{numero}", (int numero) => {
+app.MapGet("/rango/{id}", (RangoDbContext rangoDbContext, int id) => {
 
-    return "Está funcionando ok" + numero;
+    return rangoDbContext.Rangos.FirstOrDefault(x => x.Id == id);
 });
 
 app.MapGet("/rangos", () => {
