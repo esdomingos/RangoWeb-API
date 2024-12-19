@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emanueldomingos/Projetos/DOTNET/RangoWeb.API/RangoWeb.API.csproj": {}
+    "/home/emanueldomingos/Projetos/DOTNET/RangoWeb-API/RangoWeb.API.csproj": {}
   },
   "projects": {
-    "/home/emanueldomingos/Projetos/DOTNET/RangoWeb.API/RangoWeb.API.csproj": {
+    "/home/emanueldomingos/Projetos/DOTNET/RangoWeb-API/RangoWeb.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emanueldomingos/Projetos/DOTNET/RangoWeb.API/RangoWeb.API.csproj",
+        "projectUniqueName": "/home/emanueldomingos/Projetos/DOTNET/RangoWeb-API/RangoWeb.API.csproj",
         "projectName": "RangoWeb.API",
-        "projectPath": "/home/emanueldomingos/Projetos/DOTNET/RangoWeb.API/RangoWeb.API.csproj",
+        "projectPath": "/home/emanueldomingos/Projetos/DOTNET/RangoWeb-API/RangoWeb.API.csproj",
         "packagesPath": "/home/emanueldomingos/.nuget/packages/",
-        "outputPath": "/home/emanueldomingos/Projetos/DOTNET/RangoWeb.API/obj/",
+        "outputPath": "/home/emanueldomingos/Projetos/DOTNET/RangoWeb-API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emanueldomingos/.nuget/NuGet/NuGet.Config"
